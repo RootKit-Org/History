@@ -9,6 +9,6 @@
 
 ### 2. Organizations
   * Institute of Electrical and Electronics Engineers (IEEE)
-  * Organization for Standardization (ISO)
+  * International Organization for Standardization (ISO)
   * Unicode Consortium
   * Defense Advanced Research Projects Agency (DARPA)
